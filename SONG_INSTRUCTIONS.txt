@@ -1,0 +1,25 @@
+FINAL MUSIC PAGE SETUP
+
+The supplied garden photo is already included as:
+music-photo.jpg
+
+Do not move or rename it.
+
+For the actual song:
+1. Use your own legally obtained copy of "Ishq de Faniyar" as an MP3.
+2. Rename it exactly: song.mp3
+3. Put song.mp3 in the same root folder as index.html and music-photo.jpg.
+4. Upload song.mp3 to the root of your GitHub repository.
+5. The music page will automatically load it.
+
+Your repository should contain:
+index.html
+login.html
+main.html
+letter.html
+poem.html
+song.html
+final.html
+style.css
+music-photo.jpg
+song.mp3
